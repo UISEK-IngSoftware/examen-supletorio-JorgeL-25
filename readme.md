@@ -2,7 +2,7 @@
 # Examen Final - Aplicación Ionic The Simpsons
 
 ## Datos del estudiantes
-- Nombre: ______________________
+- Nombre: Jorge Luis Hinojosa Marroquín
 
 ## 📋 Objetivo
 
